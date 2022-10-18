@@ -30,3 +30,11 @@ def main():
         again = input('Would you like to play again? (y/n): ')
         print()
     print('BYE! ')
+    
+if __name__ == '__main__':
+    main()
+    
+    
+    
+    
+    
